@@ -1,2 +1,2 @@
 # BAD
-Fixing pull request merge target
+Co-author test
